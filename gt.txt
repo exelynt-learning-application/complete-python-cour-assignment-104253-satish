@@ -1,0 +1,54 @@
+1. Create the Project Folder
+
+Create a folder named:
+
+student-management-project
+
+Inside it, create this structure:
+
+student-management-project/
+│
+├── README.md
+├── students.txt
+├── src/
+│   └── Student.java
+└── docs/
+    └── project-notes.txt
+
+This shows a proper and organized project folder structure.
+
+2. Initialize Git Repository
+
+Open the terminal inside the project folder and run:
+
+git init
+
+Check the status:
+
+git status
+
+Now Git will track the project.
+
+3. Make the First Commit
+
+Add the project files:
+
+git add .
+
+Create a meaningful commit:
+
+git commit -m "Initial project structure"
+
+This is Commit 1.
+
+4. Add Project Information
+
+Add some information to README.md, for example:
+
+# Student Management Project
+
+This project is created to demonstrate Git and GitHub version control concepts.
+
+The project includes student information and a basic Java class.
+
+Then run:
