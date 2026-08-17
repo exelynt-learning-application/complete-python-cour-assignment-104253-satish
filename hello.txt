@@ -1,0 +1,41 @@
+Hello World Python Program
+Introduction
+
+The purpose of this assignment is to set up the Python development environment and create a simple Python program. The first program demonstrates how Python code is written and executed.
+
+1. Python Installation and Configuration
+
+Python was installed successfully on the computer. After installation, the Python version was checked to confirm that Python was configured correctly.
+
+Example command:
+
+python --version
+
+
+The command displayed the installed Python version, confirming that Python was installed successfully.
+
+2. IDE Setup
+
+An Integrated Development Environment (IDE) was set up for writing and running Python programs. The IDE was configured to use the installed Python interpreter.
+
+The Python file was created with the .py extension.
+
+Example:
+
+hello_world.py
+
+3. Hello World Program
+
+The following Python program was created:
+
+print("Hello, World!")
+
+4. Program Execution
+
+The program was executed successfully without errors. The output displayed on the screen was:
+
+Hello, World!
+
+Conclusion
+
+The Python development environment was successfully configured, the IDE was set up, and the first Python program was created and executed successfully. The program produced the expected "Hello, World!" output without any errors.
