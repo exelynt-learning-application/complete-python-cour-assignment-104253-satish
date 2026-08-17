@@ -8,7 +8,7 @@ total_sum = 0
 print("\nNumber Pyramid:")
 
 for i in range(1, rows + 1):
-    for j in range(1, i + 1):
+    for j in range(1, i + 1);
 
         # Skip numbers greater than 9
         if j > 9:
